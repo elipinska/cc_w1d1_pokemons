@@ -4,3 +4,7 @@
 *.rar
 *.tar
 *.zip
+
+
+# Particular files
+weedle.txt
